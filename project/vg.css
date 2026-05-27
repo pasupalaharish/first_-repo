@@ -1,0 +1,721 @@
+*
+{
+  margin: 0;  
+}
+#ip1
+{
+    font-size: 3rem;
+     padding-left: 40px;
+}
+#ip2
+{
+    padding-left: 50px;
+    border-radius: 5px;
+   
+}
+#ip5
+{
+    border-radius: 4px;
+}
+a{
+    text-decoration: none;
+}
+#ip3
+{
+   
+    padding: 10px;
+    padding-right: 300px;
+    padding-left: 100px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+#a1
+{
+    padding-left: 50px;
+    font-size: 1.5rem;
+}
+#b4
+{
+    color: dimgrey;
+    background-color: aliceblue;
+    padding: 5px;
+    font-size: 20px;
+    margin-left: 70px;
+    border-radius: 3px;
+}
+hr{
+    margin-top: 20px;
+}
+#img1{
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+#f1
+{
+    background:linear-gradient(#E3F9A6,#DBF9DB)
+}
+#div2
+{
+    margin-left: 400px;
+     height: -50px;
+     margin-left: 280px;
+     width: 1000px;
+}
+#img2
+{
+    border-radius: 5px;
+    margin-left: 500px;
+    height: 300px;
+}
+#bt2
+{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.cs1
+{
+
+   display: inline-flex;
+}
+#dv1
+{
+    background-image: url(http://www.sesacare.com/cdn/shop/articles/hs_15.png?v=1698224996);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     border: 1px solid rgb(14, 14, 8);
+     font-size: 30px;
+     text-align: center;
+     margin: 30px;
+
+    width: 400px;
+      border-radius: 20px;
+      margin-left: 50px;
+    height: 300px;
+}
+#dv2
+{
+     background-image:  url(https://www.heartfoundation.org.nz/images/nutrition/page-heros/nuts-and-seeds-hero.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+    background-size: cover;;
+     background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 30px;
+    text-align: center;
+    color:rgb(92, 145, 205);
+     border: 1px solid rgb(14, 14, 8);
+      margin: 30px;
+    width: 400px;
+    border-radius: 20px;
+    height: 300px;
+}
+#dv3
+{
+     background-image: url(https://img.freepik.com/premium-photo/fragrant-honey-spa-with-oils-honey-isolated-white_392895-134815.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+    background-size: cover;
+     font-size: 30px;
+     text-align: center;
+     margin: 30px;
+     color:rgb(110, 50, 50);
+     border: 1px solid rgb(14, 14, 8);
+      margin: 30px;
+    width: 400px;
+      border-radius: 20px;
+    height: 300px;
+}
+#h4
+{
+    color:rgb(127, 255, 212);
+    margin-top: 5px;
+}
+#bt5
+{
+    margin-top: 220px;
+    margin-left: 250px;
+    padding: 5px;
+    border-radius: 10px;
+}
+#bt6
+{
+    margin-top: 220px;
+    margin-left: 270px;
+    padding: 5px;
+    border-radius: 10px;
+}
+#bt7
+{
+    margin-top: 225px;
+    margin-left: 250px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.sm
+{
+    
+   
+    display:inline-flex;
+    align-items: center;
+}
+#sm1
+{
+    background-image: url(https://tse3.mm.bing.net/th/id/OIP.3StBuhobUhy7p_Pjo7ucHgHaEK?pid=Api&P=0&h=180);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+    margin-left: 50px;
+    height: 120px;
+    width: 100px;
+    text-align: center;
+}
+#sm11
+{
+    background-image: url(https://healthydig.in/wp-content/uploads/2020/08/Health-benefits-of-ragi.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+    margin-left: 50px;
+    height: 120px;
+    width: 100px;
+    text-align: center;
+}
+#sm2
+{
+    background-image: url(https://www.tastingtable.com/img/gallery/most-of-the-worlds-barley-comes-from-this-country/intro-1666017063.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+    margin-left: 25px;
+      height: 120px;
+    width: 100px;
+}
+#sm12
+{
+    background-image: url(https://images.delightedcooking.com/pile-of-oats.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+    margin-left: 25px;
+      height: 120px;
+    width: 100px;
+}
+
+#sm3
+{
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.Cr-yd-bhxa6Pjr5Zm8B7awHaGW?pid=Api&P=0&h=180);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+     height: 120px;
+    width: 100px;
+}
+#sm13
+{
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.2ccW6NAmTl1EmMCDMZiXtAHaHa?pid=Api&P=0&h=180);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+     height: 120px;
+    width: 100px;
+}
+#sm4
+{
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.YILjSXdSOXalnyHorp5BRwHaE8?pid=Api&P=0&h=180);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+    height: 120px;
+    width: 100px;
+}
+#sm14
+{
+    background-image: url(https://tse4.mm.bing.net/th/id/OIP.AYmW5EIHbaUBYCs3q2j4LwHaE8?pid=Api&P=0&h=180);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+    height: 120px;
+    width: 100px;
+}
+#sm5
+{
+    background-image: url(https://sarkhotnaturalfarms.com/wp-content/uploads/2022/06/Kodo-Millet-Organic.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+     height: 120px;
+    width: 100px;
+}
+#sm15
+{
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.kfFnrpVMwjXldvRZuF3wqAHaE8?pid=Api&P=0&h=180);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+     height: 120px;
+    width: 100px;
+}
+#sm6
+{
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.MRs1SdRuMVeosc2-X5vUGAHaEK?pid=Api&P=0&h=180);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+     height: 120px;
+    width: 100px;
+}
+#sm16
+{
+    background-image: url(https://www.ou.org/life/files/Peas.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+     height: 120px;
+    width: 100px;
+}
+#sm7
+{
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.XLzQy1ZzD96OAyJx0eLlZQHaHa?pid=Api&P=0&h=180);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+     height: 120px;
+    width: 100px;
+}
+#sm17
+{
+    
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.XLzQy1ZzD96OAyJx0eLlZQHaHa?pid=Api&P=0&h=180);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+     height: 120px;
+    width: 100px;
+}
+#sm8
+{
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.E6TJ75ZNq8PFer6mdomA5QHaHa?pid=Api&P=0&h=18https://5.imimg.com/data5/SELLER/Default/2022/2/AY/OG/FK/105788078/100gm-natural-sago-seeds-1000x1000.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+     height: 120px;
+    width: 100px;
+}
+#sm18
+{
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.-9XWV5Q9OZSc_WXZnaP5kAHaE8?pid=Api&P=0&h=180);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+     height: 120px;
+    width: 100px;
+}
+#sm9
+{
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.iNwSyBc05dSj1EqYymc1cAHaE7?pid=Api&P=0&h=180);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+    height: 120px;
+    width: 100px;
+}
+#sm19
+{
+    background-image: url(https://foodfornet.com/wp-content/uploads/Cooked-bulgar-in-a-white-bowl.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+    height: 120px;
+    width: 100px;
+}
+#sm10
+{
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.YCrjqAyu7mHF197ovrU1lQHaE8?pid=Api&P=0&h=180);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+      height: 120px;
+    width: 100px;
+}
+#sm20
+{
+    background-image: url(https://thumbs.dreamstime.com/z/kamut-khorasan-wheat-grains-wood-spoon-closeup-top-view-whole-218418869.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid blue; */
+    border-radius: 9px;
+      margin-left: 25px;
+      height: 120px;
+    width: 100px;
+}
+.names
+{
+    display: inline-flex;
+    margin-bottom: 10px;
+}
+#n1
+{
+    margin-left: 75px;
+}
+#n2
+{
+    margin-left: 80px;
+}
+#n3
+{
+    margin-left: 80px;
+}#n4
+{
+    margin-left: 100px;
+}#n5
+{
+    margin-left: 70px;
+}#n6
+{
+    margin-left: 65px;
+}#n7
+{
+    margin-left: 70px;
+}#n8
+{
+    margin-left: 65px;
+}#n9
+{
+    margin-left: 80px;
+}#n10
+{
+    margin-left: 70px;
+}
+.ns
+{
+    display: inline-flex;
+}
+#n11
+{
+    margin-left: 80px;
+}
+#n12
+{
+    margin-left: 100px;
+}
+#n13
+{
+    margin-left: 70px;
+}#n14
+{
+    margin-left: 30px;
+}#n15
+{
+    margin-left: 50px;
+}#n16
+{
+    margin-left: 80px;
+}#n17
+{
+    margin-left: 80px;
+}#n18
+{
+    margin-left: 70px;
+}#n19
+{
+    margin-left: 75px;
+}#n20
+{
+    margin-left: 65px;
+}
+.hd
+{
+    padding-top: 20px;
+    background-color: bisque;
+}
+#hsd1
+{
+    margin-left: 30px;
+    margin-top: -5px;
+    margin-bottom: 5px;
+    color:darkolivegreen
+}
+#dt
+{
+    margin-left:50px;
+    
+}
+.di
+{
+    background-color:aliceblue;
+    display: inline-flex;
+    
+}.di11
+{
+    background-color:aliceblue;
+    display: inline-flex;
+    
+}
+.di12
+{
+    background-color:aliceblue;
+    display: inline-flex;
+    
+}
+#di1
+{
+    background-image: url(https://m.media-amazon.com/images/I/61-HeXX496L._SL1080_.jpg);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 2000px;
+    width: 150px;
+    margin-left: 50px;
+  border-radius: 5px;
+}
+#di2
+{
+    background-image: url(https://m.media-amazon.com/images/I/61jc7ybMbNL._SL1080_.jpg);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 2000px;
+    width: 150px;
+    margin-left: 50px;
+  border-radius: 5px;
+}
+#ht1
+{
+    background-color: #b7c0b7;
+    border:1px solid whitesmoke;
+    margin-left:20px;
+    height: 350px;
+    width:250px;
+    padding-top: 20px;
+    border-radius:10px;
+    margin-bottom: 20px;
+  
+}
+#ht2
+{
+    background-color: #b7c0b7;
+    border:1px solid whitesmoke;
+    margin-left:20px;
+    height: 350px;
+    width:250px;
+    padding-top: 20px;
+    border-radius:10px;
+    margin-bottom: 20px;
+}
+#ht3
+{
+    background-color: #b7c0b7;
+    border:1px solid whitesmoke;
+    margin-left:20px;
+    height: 350px;
+    width:250px;
+    padding-top: 20px;
+    border-radius:10px;
+    margin-bottom: 20px;
+  
+}
+.di3
+{
+    background-color:aliceblue;
+    display: inline-flex;
+    
+}
+#di3
+{
+    background-image: url(https://www.bigbasket.com/media/uploads/p/l/40248042_1-nutri-organics-nutri-organics-ajwa-dates-200-g.jpg);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 2000px;
+    width: 150px;
+    margin-left: 50px;
+  border-radius: 5px;
+}
+/*3*/
+#ht4
+{
+    background-color: #b7c0b7;
+    border:1px solid whitesmoke;
+    margin-left:20px;
+    height: 350px;
+    width:250px;
+    padding-top: 20px;
+    border-radius:10px;
+    margin-bottom: 20px;
+  
+}
+.di4
+{
+    background-color:aliceblue;
+    display: inline-flex;
+    
+}
+#di4
+{
+    background-image: url(https://www.vitacost.com/Images/Products/500/Nutri/Nutri-Organic-10-Mushroom-Blend-810102742803.jpg);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 2000px;
+    width: 150px;
+    margin-left: 50px;
+  border-radius: 5px;
+}
+.di13
+{
+    background-color:aliceblue;
+    display: inline-flex;
+    
+}
+
+#ht5
+{
+    background-color: #b7c0b7;
+    border:1px solid whitesmoke;
+    margin-left:20px;
+    height: 350px;
+    width:250px;
+    padding-top: 20px;
+    border-radius:10px;
+    margin-bottom: 20px;
+  
+}
+.di5
+{
+    background-color:aliceblue;
+    display: inline-flex;
+    
+}
+#di5
+{
+    background-image: url(https://i5.walmartimages.com/seo/Premium-Roasted-Salted-Pistachio-Nutri-Organics-200gm-High-Protein-Dietary-Fiber-Nutrients-Dry-Fruits-Pista-Perfect-Gifting-7-0-Ounce_4349fcc8-fedb-403a-8137-c998297cbc74.8d8230232ff0da74d3467b0985069772.jpeg);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 2000px;
+    width: 150px;
+    margin-left: 50px;
+  border-radius: 5px;
+}
+.di14
+{
+    background-color:aliceblue;
+    
+    
+}
+#bt9
+{
+    margin-left:0px;
+    margin-top: 154px;
+   
+}
+p{
+    margin:15px 0px;
+}
+#h41
+{
+   margin-left:0px;
+   margin:15px 0px;
+}
+#p1
+{
+    font-size: 20px;
+}
+#p2
+{
+    font-size:15px;
+    text-decoration: line-through;
+    color:#7b6d6d
+}
+#hy1
+{
+    display:inline-flex;
+}
+#bti
+{
+    margin-left: 50px;
+    padding: 5px 10px;
+border-radius: 5px;
+color:green;
+border:2px solid green;
+}
+#mg2
+{
+    height: 35px;
+    width: 40px;
+    margin-top: -200px;
+    margin-left: 200px;
+}
+#bth{
+    margin-left: 1200px;
+    margin-top: 5px;
+    color: green;
+    font-size: 1.2rem;
+}
+#huy
+{
+    margin: 10px;
+  flex-direction: column-reverse;
+}
+#dgt
+{
+    font-size: 1.3rem;
+}

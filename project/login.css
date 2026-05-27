@@ -1,0 +1,31 @@
+
+img{
+    margin-left: 730px;
+    border-radius: 5px;
+}
+h1{
+     padding-left: 600px;
+}
+h3{
+     padding-left: 700px;
+}
+form{
+     padding-left: 600px;
+}
+#m1{
+     margin-left: 100px;
+     padding: 5px;
+}
+#m2
+{
+     margin-left: 108px;
+     margin-top: 10px;
+     color: aliceblue;
+     width: 150px;
+     background-color:dimgrey;
+     padding: 5px;
+     border-radius: 10px;
+}
+a{
+    text-decoration: none;
+}
